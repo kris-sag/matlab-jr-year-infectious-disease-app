@@ -1,6 +1,10 @@
 # matlab-jr-year-infectious-disease-app
-Infectious Disease Outbreak app from Junior Undergraduate Year
-- roughly pasted from a companion .pdf file required for original project assignment
+Infectious Disease Outbreak app from Junior Undergraduate Year, for the "125:305 Numerical Modeling & Biomedical Systems" class
+
+### Nota Bene
+- This README is roughly pasted from a companion .pdf file required for original project assignment, although I have formatted it to GitHub's markdown.
+- I no longer have access to a MATLAB license so I cannot change the code at all, and since this was originally created using MATLAB R2020a, it is likely that the application may use depricated functions
+
 # Description
 Simple models for the spread of an infectious disease involves three everchanging populations:
 
